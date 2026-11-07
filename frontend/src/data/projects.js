@@ -1,0 +1,98 @@
+const projects = [
+  {
+    id: "kisan-setu",
+    title: "Kisan Setu (SIH26032)",
+    tagline: "Agricultural technology · Smart India Hackathon",
+    description:
+      "An agricultural-tech project for Smart India Hackathon problem SIH26032. The farmer-facing digital token and queue prototype is built out in detail. The project scope also includes an admin dashboard and transportation tracking for goods or vehicles; completion of those modules has not been confirmed.",
+    techChips: ["Digital token / queue", "Admin dashboard", "Transportation tracking", "SIH26032"],
+    role: "Project role details not provided.",
+    status: "Farmer-facing token and queue prototype built out; other module status to confirm.",
+    links: { live: "", repo: "" },
+    accentColor: "#B38A4A",
+    previewLabel: "QUEUE PROTOTYPE",
+  },
+  {
+    id: "mplads-monitoring",
+    title: "MPLADS AI Monitoring",
+    tagline: "Interactive prototypes · Proposed AI/ML pipeline",
+    description:
+      "Several interactive HTML prototypes explore drill-down project views, spending and fraud indicators, and escalation flows for monitoring MPLADS fund usage. Isolation Forest, TF-IDF clustering, gradient-boosted regression, and graph analysis are proposed pipeline components—not implemented features.",
+    techChips: [
+      "Interactive HTML prototypes",
+      "Isolation Forest · proposed",
+      "TF-IDF · proposed",
+      "Gradient-boosted regression · proposed",
+      "Graph analysis · proposed",
+      "FastAPI · planned",
+      "React / Next.js · planned",
+    ],
+    role: "Project role details not provided.",
+    status: "Interactive prototypes built; ML pipeline and application stack are proposed.",
+    links: { live: "", repo: "" },
+    accentColor: "#D0AB68",
+    previewLabel: "FUND MONITORING",
+  },
+  {
+    id: "ayush-health-portal",
+    title: "AYUSH Health Portal (AyuMedic)",
+    tagline: "Healthcare platform · Local setup and debugging",
+    description:
+      "A healthcare platform being set up and debugged locally on Windows with React, Vite, and FastAPI. The patient, provider, discovery, verification, appointment, and ratings workflows described here are planned product requirements, not claims of shipped functionality.",
+    techChips: [
+      "React",
+      "Vite",
+      "FastAPI",
+      "Patient signup · planned",
+      "Provider discovery · planned",
+      "Appointment booking · planned",
+      "Licence verification · planned",
+    ],
+    role: "Project role details not provided.",
+    status: "Local setup and debugging; product features are planned.",
+    links: { live: "", repo: "" },
+    accentColor: "#47745B",
+    previewLabel: "HEALTH PORTAL",
+  },
+  {
+    id: "inkwell-folio",
+    title: "INKWELL 3D Resume Builder",
+    tagline: "INKWELL · also known as Folio",
+    description:
+      "A resume builder delivered as a single self-contained HTML file using vanilla JavaScript. It includes a multi-step resume wizard, a template gallery, simulated authentication, and an earlier landing-page concept with CSS-based 3D animation.",
+    techChips: ["Self-contained HTML", "Vanilla JavaScript", "Template gallery", "CSS 3D animation"],
+    role: "Project role details not provided.",
+    status: "Self-contained HTML build.",
+    links: { live: "", repo: "" },
+    accentColor: "#A98140",
+    previewLabel: "RESUME BUILDER",
+  },
+  {
+    id: "consent-face-recognition",
+    title: "Consent-Based Face Recognition",
+    tagline: "Computer vision · Consent-first experiment",
+    description:
+      "A face-recognition experiment that began as a minimal webcam script using OpenCV and the face_recognition library. Enrollment is intended only for people who explicitly consent. A FastAPI backend and web dashboard are planned next steps.",
+    techChips: ["Python", "OpenCV", "face_recognition", "FastAPI · planned", "Dashboard · planned"],
+    role: "Project role details not provided.",
+    status: "Minimal webcam script started; backend and dashboard are planned.",
+    links: { live: "", repo: "" },
+    accentColor: "#87652E",
+    previewLabel: "CONSENT-FIRST CV",
+  },
+  {
+    id: "portfolio-website",
+    title: "Portfolio Website",
+    tagline: "Personal portfolio · React, Vite, and FastAPI",
+    description:
+      "This portfolio combines a React and Vite frontend with a FastAPI backend and profile API. It includes project and learning sections, contact and portfolio Q&A features, and CSS-built visual scenes. Java is a technology of interest, not part of this site's current stack.",
+    techChips: ["React", "Vite", "FastAPI", "CSS animations"],
+    role: "Project role details not provided.",
+    status: "React + Vite frontend and FastAPI backend.",
+    links: { live: "", repo: "" },
+    accentColor: "#315643",
+    previewLabel: "PORTFOLIO",
+  },
+];
+
+export default projects;

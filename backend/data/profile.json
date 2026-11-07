@@ -1,0 +1,188 @@
+{
+  "name": "Gaurav Singh",
+  "title": "Full-Stack Developer & AI/ML Builder",
+  "location": "Ghaziabad, India",
+  "email": "gauravsingh15462@gmail.com",
+  "tagline": "I build scalable web applications and ML-driven systems, from React interfaces and FastAPI services to anomaly detection pipelines.",
+  "intro": "Computer Science undergraduate at AKGEC who designs and ships end-to-end products: responsive frontends, REST APIs, and ML pipelines. I enjoy working close to the fundamentals, from data structures to operating systems.",
+  "headline": "Building end-to-end products, from thoughtful interfaces to applied machine learning.",
+  "about": "I’m a second-year B.Tech Computer Science Engineering student at Ajay Kumar Garg Engineering College (AKGEC), with a CGPA of 8.1. I build full-stack applications using React, Vite, and FastAPI, and explore machine learning applications such as anomaly detection for public-fund monitoring. I take part in hackathon projects, including Smart India Hackathon problem statements, and enjoy taking ideas from problem analysis toward a working prototype.\n\nI’m a self-directed learner who likes understanding systems from first principles. I study data structures and algorithms in C and C++, computer organization and architecture, and operating-system concepts through resources such as MIT 6.S081. I prefer iterating in small steps, keeping solutions simple, and being precise about what a system does—and what it does not do.",
+  "skillsIntro": "A practical mix of full-stack development, applied machine learning, and computer-science fundamentals. Some tools are active learning areas; project feature and deployment status is labeled where it still needs confirmation.",
+  "currentlyLearning": "Operating systems through MIT 6.S081 coursework, data structures and algorithms in C/C++, computer organization and architecture, and 3D web development with Three.js.",
+  "highlights": [
+    { "value": "8.1", "label": "B.Tech CGPA" },
+    { "value": "AKGEC", "label": "Computer Science Engineering" },
+    { "value": "2nd year", "label": "Undergraduate" }
+  ],
+  "journey": [
+    {
+      "period": "CURRENTLY",
+      "title": "B.Tech, Computer Science Engineering",
+      "description": "Second-year student at Ajay Kumar Garg Engineering College, Ghaziabad. CGPA: 8.1."
+    },
+    {
+      "period": "CURRENTLY LEARNING",
+      "title": "Operating systems and computer architecture",
+      "description": "Studying operating-system concepts through MIT 6.S081 alongside computer organization and architecture."
+    },
+    {
+      "period": "CURRENTLY LEARNING",
+      "title": "Data structures and algorithms",
+      "description": "Practicing data structures and algorithms in C and C++."
+    },
+    {
+      "period": "HACKATHONS",
+      "title": "Smart India Hackathon participant",
+      "description": "Participated in Smart India Hackathon. Specific year, team result, and problem-statement details are not listed."
+    },
+    {
+      "period": "EARLIER",
+      "title": "School and JEE",
+      "description": "Completed high school and intermediate studies in Jaunpur, earned 93% in high school, and qualified for JEE."
+    }
+  ],
+  "skills": [
+    "React",
+    "Vite",
+    "JavaScript (ES6+)",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Three.js / React Three Fiber",
+    "GSAP",
+    "Responsive and 3D-animated UI",
+    "FastAPI",
+    "REST API design",
+    "Node.js",
+    "JWT authentication",
+    "OTP-based login (Twilio, Redis)",
+    "Python",
+    "OpenCV",
+    "face_recognition",
+    "Isolation Forest",
+    "TF-IDF clustering",
+    "Gradient-boosted regression",
+    "Graph analysis",
+    "C",
+    "C++",
+    "Data structures and algorithms",
+    "Computer organization and architecture",
+    "Operating-system fundamentals",
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman"
+  ],
+  "skillGroups": {
+    "Frontend": [
+      "React",
+      "Vite",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Three.js / React Three Fiber",
+      "GSAP",
+      "Responsive and 3D-animated UI"
+    ],
+    "Backend": [
+      "FastAPI",
+      "REST API design",
+      "Node.js",
+      "JWT authentication",
+      "OTP login · Twilio / Redis"
+    ],
+    "AI / ML": [
+      "Python",
+      "OpenCV",
+      "face_recognition",
+      "Isolation Forest",
+      "TF-IDF clustering",
+      "Gradient-boosted regression",
+      "Graph analysis"
+    ],
+    "Core CS": [
+      "C",
+      "C++",
+      "Data structures and algorithms",
+      "Computer organization and architecture",
+      "Operating-system fundamentals"
+    ],
+    "Tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman"
+    ]
+  },
+  "learningProgress": [
+    { "name": "React", "stageLabel": "Building interfaces", "stage": 3 },
+    { "name": "FastAPI", "stageLabel": "Building APIs", "stage": 3 },
+    { "name": "Python / ML", "stageLabel": "Applied projects", "stage": 3 },
+    { "name": "C / C++ DSA", "stageLabel": "Active practice", "stage": 3 },
+    { "name": "Operating systems", "stageLabel": "Coursework in progress", "stage": 2 },
+    { "name": "Computer architecture", "stageLabel": "Coursework in progress", "stage": 2 },
+    { "name": "Three.js", "stageLabel": "Currently learning", "stage": 2 }
+  ],
+  "socials": {
+    "linkedin": ""
+  },
+  "projects": [
+    {
+      "name": "Kisan Setu · SIH26032",
+      "aliases": ["Kisan Setu", "SIH26032"],
+      "category": "AGRICULTURAL TECHNOLOGY · HACKATHON",
+      "status": "Farmer queue prototype · other modules to confirm",
+      "description": "An agricultural-tech project for Smart India Hackathon problem SIH26032. The detailed prototype centers on a farmer-facing digital token and queue; the project scope also includes an admin dashboard and transportation tracking to coordinate movement between farmers and procurement centers.",
+      "technologies": ["Digital token / queue", "Admin dashboard", "Transport tracking", "SIH26032"]
+    },
+    {
+      "name": "MPLADS AI Monitoring Platform",
+      "aliases": ["MPLADS", "fund monitoring"],
+      "category": "SMART INDIA HACKATHON · AI / ML",
+      "status": "Interactive HTML prototypes built · ML pipeline proposed",
+      "description": "Several interactive HTML prototypes explore drill-down project views, spending indicators, and escalation flows for monitoring MPLADS fund usage. A future analysis pipeline is proposed—Isolation Forest for anomalies, TF-IDF clustering for similar project text, gradient-boosted regression for estimates, and graph analysis for vendor concentration; these ML components are not presented as implemented.",
+      "technologies": ["Interactive HTML prototypes", "Isolation Forest (proposed)", "TF-IDF (proposed)", "Gradient-boosted regression (proposed)", "Graph analysis (proposed)"]
+    },
+    {
+      "name": "AYUSH Health Portal · AyuMedic",
+      "aliases": ["AyuMedic", "AYUSH"],
+      "category": "FULL-STACK HEALTHCARE · LOCAL SETUP",
+      "status": "React/Vite + FastAPI setup and debugging · features planned",
+      "description": "A healthcare platform being set up and debugged locally on Windows. The planned experience covers patient signup and verification, provider discovery by location and filters, health-issue search, appointment slots, provider licence verification, and hospital booking workflows. These are plans, not claims that the features are already shipped.",
+      "technologies": ["React", "Vite", "FastAPI", "OTP / Google verification (planned)", "Provider discovery (planned)", "Booking (planned)"]
+    },
+    {
+      "name": "INKWELL · Folio Resume Builder",
+      "aliases": ["INKWELL", "Folio"],
+      "category": "INTERACTIVE WEB APP",
+      "status": "Self-contained HTML build",
+      "description": "A resume builder delivered as a single self-contained HTML file using vanilla JavaScript. It has a full multi-step wizard, a template gallery, simulated authentication, and an earlier landing-page concept with CSS-based 3D animation.",
+      "technologies": ["HTML", "CSS 3D", "Vanilla JavaScript"]
+    },
+    {
+      "name": "Consent-Based Face Recognition System",
+      "aliases": ["God's Eye", "Gods Eye", "face recognition"],
+      "category": "COMPUTER VISION · CONSENT FIRST",
+      "status": "Minimal webcam script started · backend/dashboard planned",
+      "description": "A consent-based face-recognition experiment inspired by a fictional tracking interface. It began as a minimal webcam script using OpenCV and face_recognition; a FastAPI backend and web dashboard are future plans. Enrollment is intended only for people who explicitly consent.",
+      "technologies": ["Python", "OpenCV", "face_recognition", "FastAPI (planned)", "Web dashboard (planned)"]
+    },
+    {
+      "name": "Personal Portfolio",
+      "aliases": ["portfolio website", "portfolio"],
+      "category": "FULL-STACK · PERSONAL SITE",
+      "status": "React + Vite frontend and FastAPI backend",
+      "description": "This portfolio brings together profile content, project and learning sections, a contact form, and a locally served profile API. CSS-built motion and scenes provide the visual experience; Java is a technology of interest, not part of this site's current stack.",
+      "technologies": ["React", "Vite", "FastAPI", "CSS animation"]
+    },
+    {
+      "name": "Smaller Builds & Experiments",
+      "aliases": ["OTP login", "Polyglot", "Code playground", "AI control layer"],
+      "category": "EXPLORATIONS · MIXED STATUS",
+      "status": "Local setup, exploration, prototypes, and concept work",
+      "description": "A collection of smaller efforts: an OTP login setup explored with Node.js, Twilio, Redis, and JWT; a browser code-playground exploration for Python, JavaScript, and HTML/CSS; a multi-stage upload/storefront in a single HTML file; and an AI control-layer pitch concept. These have different levels of completion and are not represented as one shipped product.",
+      "technologies": ["Node.js · Twilio · Redis · JWT", "CodeMirror / Pyodide (explored)", "Single-file HTML prototype", "AI control-layer concept"]
+    }
+  ]
+}
