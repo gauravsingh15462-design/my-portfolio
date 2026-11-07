@@ -18,7 +18,7 @@ const heroRoles = [
   "Full-Stack Developer",
   "AI/ML Builder",
   "OS Explorer",
-  "Hackathon Hacker",
+  "Ethical Hacking learner",
 ];
 
 function ArrowIcon() {
