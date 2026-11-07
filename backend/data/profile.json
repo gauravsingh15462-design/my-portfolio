@@ -8,7 +8,7 @@
   "headline": "Building end-to-end products, from thoughtful interfaces to applied machine learning.",
   "about": "I’m a second-year B.Tech Computer Science Engineering student at Ajay Kumar Garg Engineering College (AKGEC), with a CGPA of 8.1. I build full-stack applications using React, Vite, and FastAPI, and explore machine learning applications such as anomaly detection for public-fund monitoring. I take part in hackathon projects, including Smart India Hackathon problem statements, and enjoy taking ideas from problem analysis toward a working prototype.\n\nI’m a self-directed learner who likes understanding systems from first principles. I study data structures and algorithms in C and C++, computer organization and architecture, and operating-system concepts through resources such as MIT 6.S081. I prefer iterating in small steps, keeping solutions simple, and being precise about what a system does—and what it does not do.",
   "skillsIntro": "A practical mix of full-stack development, applied machine learning, and computer-science fundamentals. Some tools are active learning areas; project feature and deployment status is labeled where it still needs confirmation.",
-  "currentlyLearning": "Operating systems through MIT 6.S081 coursework, data structures and algorithms in C/C++, computer organization and architecture, and 3D web development with Three.js.",
+  "currentlyLearning": "Operating systems through MIT 6.S081 coursework, data structures and algorithms in C/C++, computer organization and architecture, and 3D web development with Three.js, ethical hacking coursework from nptel by IIT Kharagpur.",
   "highlights": [
     { "value": "8.1", "label": "B.Tech CGPA" },
     { "value": "AKGEC", "label": "Computer Science Engineering" },
@@ -19,6 +19,11 @@
       "period": "CURRENTLY",
       "title": "B.Tech, Computer Science Engineering",
       "description": "Second-year student at Ajay Kumar Garg Engineering College, Ghaziabad. CGPA: 8.1."
+    },
+     {
+      "period": "CURRENTLY LEARNING",
+      "title": "Ethical Hacking",
+      "description": "Studying the ethical hacking coursework from nptel website offered by IIT Kharagpur.."
     },
     {
       "period": "CURRENTLY LEARNING",
