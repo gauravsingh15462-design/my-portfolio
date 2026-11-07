@@ -1,7 +1,7 @@
 const projects = [
   {
     id: "kisan-setu",
-    title: "Kisan Setu (SIH26032)",
+    title: "Kisan Setu ",
     tagline: "Agricultural technology · Smart India Hackathon",
     description:
       "An agricultural-tech project for Smart India Hackathon problem SIH26032. The farmer-facing digital token and queue prototype is built out in detail. The project scope also includes an admin dashboard and transportation tracking for goods or vehicles; completion of those modules has not been confirmed.",
@@ -14,7 +14,7 @@ const projects = [
   },
   {
     id: "mplads-monitoring",
-    title: "MPLADS AI Monitoring",
+    title: "AI Monitoring",
     tagline: "Interactive prototypes · Proposed AI/ML pipeline",
     description:
       "Several interactive HTML prototypes explore drill-down project views, spending and fraud indicators, and escalation flows for monitoring MPLADS fund usage. Isolation Forest, TF-IDF clustering, gradient-boosted regression, and graph analysis are proposed pipeline components—not implemented features.",
@@ -34,7 +34,7 @@ const projects = [
     previewLabel: "FUND MONITORING",
   },
   {
-    id: "ayush-health-portal",
+    id: "Ayush-health-portal",
     title: "AYUSH Health Portal (AyuMedic)",
     tagline: "Healthcare platform · Local setup and debugging",
     description:
